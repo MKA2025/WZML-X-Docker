@@ -1,4 +1,4 @@
-FROM mka1585/main:wzml-x
+FROM mka1585/wzml-x
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
